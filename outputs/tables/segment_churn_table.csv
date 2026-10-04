@@ -1,0 +1,28 @@
+Segment,customers,churned,churn_rate_pct
+New (0-12m) | High charge | Month-to-month,370,276,74.6
+New (0-12m) | Medium charge | Month-to-month,824,461,55.9
+Developing (13-24m) | High charge | Month-to-month,273,147,53.8
+Established (25-48m) | High charge | Month-to-month,395,172,43.5
+New (0-12m) | Low charge | Month-to-month,800,287,35.9
+Developing (13-24m) | Medium charge | Month-to-month,285,97,34.0
+Loyal (49-72m) | High charge | Month-to-month,226,70,31.0
+Established (25-48m) | Medium charge | Month-to-month,263,72,27.4
+Established (25-48m) | High charge | One year,145,31,21.4
+Loyal (49-72m) | High charge | One year,349,67,19.2
+Developing (13-24m) | Low charge | Month-to-month,179,34,19.0
+Loyal (49-72m) | Medium charge | Month-to-month,82,13,15.9
+Established (25-48m) | Low charge | Month-to-month,144,20,13.9
+Developing (13-24m) | Medium charge | One year,70,8,11.4
+Established (25-48m) | Medium charge | One year,200,19,9.5
+New (0-12m) | Low charge | One year,93,7,7.5
+Loyal (49-72m) | Medium charge | One year,179,12,6.7
+Loyal (49-72m) | High charge | Two year,520,29,5.6
+Developing (13-24m) | Low charge | One year,109,4,3.7
+Established (25-48m) | Medium charge | Two year,58,2,3.4
+Established (25-48m) | Low charge | One year,173,5,2.9
+Loyal (49-72m) | Low charge | One year,106,3,2.8
+Loyal (49-72m) | Medium charge | Two year,334,8,2.4
+Loyal (49-72m) | Low charge | Two year,409,5,1.2
+Established (25-48m) | Low charge | Two year,175,2,1.1
+Developing (13-24m) | Low charge | Two year,73,0,0.0
+New (0-12m) | Low charge | Two year,56,0,0.0
