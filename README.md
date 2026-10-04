@@ -25,7 +25,7 @@ telco-churn-project/
 └── README.md
 ```
 
-## Setup (VS Code terminal, from the project folder)
+## Setup 
 Windows:
 ```
 python -m venv .venv
@@ -38,7 +38,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-Then in VS Code: Ctrl+Shift+P -> "Python: Select Interpreter" -> choose `.venv`.
 
 ## Run
 ```
@@ -54,6 +53,3 @@ Run them in order: Task 1 creates the files the others read.
 | `notebooks/02_exploratory_data_analysis.ipynb` | Task 2 - EDA |
 | `notebooks/03_customer_segmentation.ipynb` | Task 3 - Customer segmentation |
 | `notebooks/04_churn_prediction_model.ipynb` | Task 4 - Churn prediction model |
-
-Open each in VS Code, pick the `.venv` kernel (top-right) and use Run All. The notebooks are already executed, so outputs are visible before you run anything.
-Also included: `REPORT.md` (written report) and `VIDEO_SCRIPT.md` (video outline and LinkedIn post draft).
