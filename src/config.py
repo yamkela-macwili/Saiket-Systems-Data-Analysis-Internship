@@ -1,6 +1,6 @@
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent      # project root, wherever it is on your machine
+ROOT = Path(__file__).resolve().parent.parent     
 RAW = ROOT / "data" / "raw" / "Telco_Customer_Churn_Dataset_.csv"
 PROCESSED = ROOT / "data" / "processed"
 FIGURES = ROOT / "outputs" / "figures"
